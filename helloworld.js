@@ -1,7 +1,7 @@
 // code your `hello` function here!
 
-function helloWorld() {
-    console.log('Hello World!')
+function hello() {
+    return 'Hello World'
 }
 
-export function helloWorld();
+export function hello();
