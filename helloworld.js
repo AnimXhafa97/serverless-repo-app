@@ -6,4 +6,4 @@ function hello() {
 
 }
 
-module.exports = hello;
+module.exports = hello();
