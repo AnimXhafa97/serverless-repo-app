@@ -4,4 +4,4 @@ function hello() {
     return 'Hello World'
 }
 
-export function hello();
+export { hello };
