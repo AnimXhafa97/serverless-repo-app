@@ -2,8 +2,9 @@
 
 function hello() {
     //console.log('hi');
-    return 'Hello World'
+    return "Hello World"
 
 }
 
-module.exports = hello();
+
+exports.hello = hello;
